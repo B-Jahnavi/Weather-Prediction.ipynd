@@ -1,1 +1,1 @@
-# Weather-Prediction.ipynd
+# Weather Prediction Using Artificial Intelligence
